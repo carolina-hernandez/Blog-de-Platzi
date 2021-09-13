@@ -1,1 +1,3 @@
 Hola
+Es 13 de septiembre y estoy aprendiendo Git
+Mi próximo curso será de Python avanzado
